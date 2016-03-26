@@ -1,7 +1,3 @@
----
-layout: post
-title: Day 1 / 56
----
 #Day 1 / 56
 @Ga_Melbourne by *Johan Codinha*.  
 
@@ -20,7 +16,7 @@ title: Day 1 / 56
 - **How to use the terminal**, this part, I already knew about it, then I realize I didn't knew much about it, so we practice and then I started to customize my terminal and setup few aliases here and there to "optimize" the work flow.  
 
 - **How to use Git, and [GitHub :octocat:](https://github.com/JohanCodinha)**, the first one was already cover in the pre-work and since GitHub is kind of a social platform design for collaboration it was great to practice with the group, by the way do not trust those green square from March 15, it's just some fork, clone, add, commits -m "w/ meaningful comment" and them pushed to GitHub.  
-<center>![git commit strip](http://imgs.xkcd.com/comics/git_commit.png)</center>
+![git commit strip](http://imgs.xkcd.com/comics/git_commit.png)
 
 **:shell: Quotes of the day :**
 - "If your lost you can always PWD to see where you are." DT
