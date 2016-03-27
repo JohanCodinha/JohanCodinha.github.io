@@ -22,4 +22,4 @@ With the pre-work and others random life encounters, most of my classmates and I
 - Other JS ~~quirks~~ features...  
 
 **:shell: Quote of the day :**  
-> "JavaScript try to help you, in a sloppy way." DT  
+> JavaScript try to help you, in a sloppy way. DT  
