@@ -7,7 +7,8 @@ tags: learning, general assembly, javascript, HTML, CSS
 
 ## :globe_with_meridians: The wonderful World Wide Web.  
 
-March 1989, exactly 27 years ago. Mr. Tim Berners-lee, an English computer scientist, propose a solution to help others keep track of large scientific project at CERN, avoid the loss of information and ease access to it. In his [proposal](https://www.w3.org/History/1989/proposal.html), he described a decentralized system where document link to each other via [hypertext](https://en.wikipedia.org/wiki/Hypertext). The first name he decided for was "Mesh", but when he started writing the code in May 1990 he decided on "World Wide Web".  
+March 1989, exactly 27 years ago. Mr. Tim Berners-lee, an English computer scientist, propose a solution to help others keep track of large scientific project at CERN, avoid the loss of information and ease access to it. In his [proposal](https://www.w3.org/History/1989/proposal.html), he described a decentralized system where document link to each other via [hypertext](https://en.wikipedia.org/wiki/Hypertext). The first name he decided for was "Mesh", but when he started writing the code in May 1990 he decided on "World Wide Web".
+The green milk crate is here for a good reason, but can you spot the potential fire hazards on this picture ?  
 
 ![classRoom](/images/classRoom.jpg)  
 
