@@ -19,13 +19,12 @@ March 1989, exactly 27 years ago. Mr. Tim Berners-lee, an English computer scien
 ## :book: TIL :
 
 - **DOM** Document Object Model, a web page is just a giant object with each tag a nested object, represented like a tree, a DOM :evergreen_tree:
-What you see in the browser when you source code is actually the representation of the DOM by the browser.
+What you see in the browser when you have a look at the source code is actually the representation of the DOM by the browser, not the actual source.
 - **HTML** "there is two type of <tag\>, sandwich and toast" DT
 - **CSS**
-        - **selectors**  Use a greater-than sign ( E > A) to select any E element that is a child  of an A element. EX:  "article > p" will only select  <p\> tags that are a direct child of <article\>, leaving the nested one unchanged.  
-        - **box-sizing: border-box;** use it to get your calculation right.  
-        - User *agent style sheet*, will try to screw you.  
-        - By default, CSS will try to screw you.   
+        - [Selectors](https://developer.mozilla.org/en/docs/Web/Guide/CSS/Getting_started/Selectors)  Use `E > A` to select any E, child element of an A element. EX:  "article > p" will only select  <p\> tags that are a direct child of <article\>, leaving the nested one unchanged.
+        - [box-sizing:](https://developer.mozilla.org/en/docs/Web/CSS/box-sizing) border-box; Use it ! to get your calculation right. 
+        - Web browsersers's 'user agent stylesheet' will try to screw you, but by default CSS will also try to screw you. 
         
 **:shell: Quotes of the day :**  
 
