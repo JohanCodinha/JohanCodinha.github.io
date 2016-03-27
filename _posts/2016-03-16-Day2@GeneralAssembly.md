@@ -5,10 +5,10 @@ tags: learning, general assembly, javascript
 ---
 @Ga_Melbourne by *Johan Codinha*.  
 
-####It was a warm and sunny day, let's dive into JavaScript.  
+## :sunny: It's warm and sunny outside, let's dive into JavaScript.  
 You may think that we are learning JS because everybody is using it, well you are not even wrong. It's *J*u*S*t *everywhere*, on your web browser of course but also on phones, vending machines, the space station and it's powering nuclear submarine too. I'm not sure about the last one but you get the point, JS interpreters/VM/engine runs on lots of different platforms, except for about ~1% of users who deactivate it,  probably to save on bandwidth, avoid ads and render the page faster, smart move guys.  
 With the pre-work and others random life encounters, most of my classmates and I were already familiar with the basic of the language, until you start using strict mode and learn about things like transitivity and the others 'bad parts' of JS, because where there is [good](https://www.youtube.com/watch?v=bo36MrBfTk4), there is also bad.  
-<center>![git commit strip](http://www.i.imgur.com/hs2cF2W.png)</center>
+[git commit strip](http://www.i.imgur.com/hs2cF2W.png)
  
 
 ## :dart: Every day goals :  
@@ -21,5 +21,5 @@ With the pre-work and others random life encounters, most of my classmates and I
 - **Always** use `===` and `!==` and let their evil twins == and != rest in peace page 55 of the 1999 specification.
 - Other JS ~~quirks~~ features...  
 
-**:shell: Quote of the day :**
+**:shell: Quote of the day :**  
 > "JavaScript try to help you, in a sloppy way." DT  
