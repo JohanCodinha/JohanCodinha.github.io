@@ -19,5 +19,5 @@
 ![git commit strip](http://imgs.xkcd.com/comics/git_commit.png)
 
 **:shell: Quotes of the day :**
-> "If your lost you can always PWD to see where you are." DT
+> "If your lost you can always PWD to see where you are." DT  
 > "Why use git ? because everybody uses it." DT
