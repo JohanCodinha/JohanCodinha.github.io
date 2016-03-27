@@ -11,7 +11,7 @@ The routine is in place, started the day with some serious public transport jam,
 The Afternoon started with a guest speaker, Josh was a former WDI student, he showed us some of his work and gave us some tips on how to be successful in the course, cheers mate.
 Then I spend the night watching some video about JS, very interesting even if I don't get most of it.  
   
-![skyline from GA](http://i.imgur.com/JW6fwqz.jpg)  
+![skyline from GA](/images/sunSetjpg)  
 
 ## :dart: Every day goals :  
 
