@@ -23,7 +23,7 @@ This is _exactly_ what we are doing in class today, well not a `===` _exactly_, 
 - **CSS**  
         - *Collapsing margin*, if two margin goes in the same direction, only the bigger one will take effect, the other one will colapse.  
         - Percentage **%** will deal with parents to calculate the size.  
-- Use the plugin [emmet](http://emmet.io/) to help you write HTML and CSS code faster, for exemple you can make a unordered list containing three items by typing `nav>ul>li*3 + TAB` = MAGIC.
+- [emmet](http://emmet.io/) is the plugin that will help you write HTML and CSS code faster, for exemple you can make a unordered list containing three items by typing `nav>ul>li*3 + TAB` = MAGIC.  
         
 ![CSS](/images/cssGriffin.gif)
 
