@@ -15,7 +15,7 @@ A different subject, tonight was the first [#BudgetHack](http://www.codeforaustr
 ## :dart: Every day goals :  
 
 **Coding**, DOM Api everywhere, so much fun.
-**Talking about it**, Another day another talk, this on is more an audio memo that helped me remember the day so that I could write this post, anyway here my seventh [Walk and Talk](https://soundcloud.com/johan-c-819300950/walk-and-talk-day-7-58).
+**Talking about it**, Another day another talk, here my seventh [Walk and Talk](https://soundcloud.com/johan-c-819300950/walk-and-talk-day-7-59). Just don't listen to that, it's a nonchalant FrenGlish talk, you have better things to do.
 
 ## :book: TIL :
 - **Events** ~~of my life~~, are the interface that handle hardware inputs from devices such as a mouse, keyboard, touchscreen ect... Once you detected an input, you can work with the event object.  

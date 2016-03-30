@@ -13,4 +13,3 @@ First day of class
 6 function are values
     probably the best part of JS, function are just data.
 7 document object
-
