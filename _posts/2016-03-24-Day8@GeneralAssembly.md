@@ -5,9 +5,9 @@ tags: learning, general assembly, javascript, HTML, CSS, DOM API
 ---
 @Ga_Melbourne by *Johan Codinha*.
 
-## :globe_with_meridians: Adventure Time Thursday.  
+## :globe_with_meridians: Adventure time Thursday.  
 
-Today we talked about responsive design and how it simplify ours life as designer and programer. How ? By having one design that will adapt to the width of the user's screen and will reorganize elements to fit the page. But let's not forget that users browsing your site on mobile will look for different information and services than users browsing on desktop. For exemple if I'm browsing a restaurant website on mobile the first things I want to see are opening time, adresse and a phone number. Now if I'm browsing on desktop I'm looking for a more visual experience, a sneak peek of the vibe the place as to offer.  
+Today we talked about responsive design and how it simplify our life as designer and programmer. How ? By having one design that will adapt to the width of the user's screen and will reorganize elements to fit the page. But let's not forget that users browsing your site on mobile will look for different information and services than users browsing on a desktop. For example, if I'm checking out a restaurant website from my mobile, the first things I want to see are opening time, address and a phone number. Now if I'm browsing on a desktop I'm looking for a more visual experience, an overview of the vibes the place as to offer. So it's not enough to squeeze everything into a single column because different browsing devices introduce different users expectations.  
 
 ![contentFlow](/contentWater.jpg)  
 
@@ -23,4 +23,4 @@ Today we talked about responsive design and how it simplify ours life as designe
 
 **:shell: Quotes of the day :**  
 
->"The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect." - Tim berners-Lee
+>"The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect." - Tim Berners-Lee
