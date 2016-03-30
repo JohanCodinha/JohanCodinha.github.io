@@ -9,7 +9,7 @@ tags: learning, general assembly, javascript, HTML, CSS, DOM API
 
 Today we talked about responsive design and how it simplify our life as designer and programmer. How ? By having one design that will adapt to the width of the user's screen and will reorganize elements to fit the page. But let's not forget that users browsing your site on mobile will look for different information and services than users browsing on a desktop. For example, if I'm checking out a restaurant website from my mobile, the first things I want to see are opening time, address and a phone number. Now if I'm browsing on a desktop I'm looking for a more visual experience, an overview of the vibes the place as to offer. So it's not enough to squeeze everything into a single column because different browsing devices introduce different users expectations.  
 
-![contentFlow](/contentWater.jpg)  
+![contentFlow](/images/contentWater.jpg)  
 
 ## :dart: Every day goals :  
 
