@@ -24,4 +24,4 @@ So it's what I have done, this [course](https://app.pluralsight.com/library/cour
 
 **:shell: Quotes of the day :**  
 
-`"If you use eval, I will break your finger" DT`
+>"If you use eval, I will break your finger" DT
