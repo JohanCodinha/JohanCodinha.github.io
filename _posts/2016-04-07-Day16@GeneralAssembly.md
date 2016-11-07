@@ -5,7 +5,7 @@ tags: learning, general assembly, ruby, backend, oop
 ---
 @Ga_Melbourne by *Johan Codinha*.
 
-##:gem: Programing with ~~a spoon~~ objects.
+## :gem: Programing with ~~a spoon~~ objects.
 
 So we have been using object since day one with javascript, most of the time without realizing it. Now it's time to create our own or get a headache trying. After an emotional programming story from our instructor DT, we talked about his early experience with object oriented programming.
 My first introduction to OOP was few years ago when I started learning C++ after years of using C to program microcontrollers in high school. The first time,  I got so confused about the principles behind object, then I tried again to understand the concept with another language, PhP, didn't work. Few failure later I finally get it, and I understand the confusion present in the class, I have been there. All you need to do is to  check out other learning materials, keep reading courses and experiment, until you finally get it.
