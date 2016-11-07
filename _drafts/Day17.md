@@ -7,13 +7,13 @@ tags: learning, general assembly, ruby, backend, oop
 
 ##:gem: Day out Friday.
 
-Friday was a pretty slow day programing wise, in the morning we had an introduction to personal branding by our outcome producer. He's in charge of training us on how to get a job after the course by helping out on resumé, linkedin, personal sales pitch and all that jazz.
+Friday was a pretty slow day programing wise, in the morning we had an introduction to personal branding by our outcome producer. He's in charge of training us on how to get a job after the course by helping out on resumé, linkedin, personal 'elevator' pitch and all that jazz.
 On the afternoon we went even less productive with the visit of a real estate compagny, they got a website and some apps so I guess it's related, I give them a point for the cake at the end of the visit.
 
 ## :dart: Every day goals :  
 
 **Coding**, We actualy build a sinatra app to search live stock price from the yahoo api.
-**Talking about it**, 
+**Talking about it**, even when it's not worth it, [Walk and Talk](https://soundcloud.com/johan-c-819300950/walk-and-talk-day-17-58)
 
 ## :book: TIL :  
  - Time is precious
